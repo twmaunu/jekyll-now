@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: FMS
 permalink: /FMS/
 ---
 
 [arXiv](https://arxiv.org/pdf/1406.6145v2.pdf)
 
-Hello
+This is a webpage for the Fast Median Subspac (FMS) algorithm.
