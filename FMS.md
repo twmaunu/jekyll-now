@@ -27,5 +27,4 @@ competitive speed and accuracy.
 
 This is a webpage for the Fast Median Subspace (FMS) algorithm.
 
-<script type="math/tex; mode=display">a = b</script>
-
+$$ a = b $$
