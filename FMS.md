@@ -3,7 +3,6 @@ layout: page2
 title: FMS
 permalink: /FMS/
 ---
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 # Fast Median Subspace
 
@@ -28,6 +27,5 @@ competitive speed and accuracy.
 
 This is a webpage for the Fast Median Subspace (FMS) algorithm.
 
-\begin{equation}
-a=b
-\end{equation}
+<script type="math/tex; mode=display">a = b</script>
+
