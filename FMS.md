@@ -35,3 +35,14 @@ To deal with the non-differentiability of the cost in the above formulation, we 
 
 $$ \text{argmin}_{L \in G(D,d)} \sum_{\text{dist}^{2-p}(\boldsymbol{x}_i,L) > p \delta} \text{dist}^p(\boldsymbol{x}_i,L) + \sum_{\text{dist}^{2-p}(\boldsymbol{x}_i,L) \leq p \delta} \frac{\text{dist}^2(\boldsymbol{x}_i,L)}{2\delta} + C_{p,\delta}   $$
 
+
+
+
+TODO:
+- complete description
+- illustration
+- experiments
+- code package download
+
+
+
