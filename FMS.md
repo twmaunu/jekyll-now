@@ -25,8 +25,8 @@ minimum. Numerical experiments on synthetic and real data demonstrate its
 competitive speed and accuracy.
 
 
-This is a webpage for the Fast Median Subspace (FMS) algorithm.
+This is a webpage for the Fast Median Subspace (FMS) algorithm. The goal is to solve the optimization problem
 
-$$ a = b $$
+$$ \text{argmin}_{l \in G(D,d)} \sum_{\boldsymbol{x}_i} \text{dist}(\boldsymbol{x}_i,L) $$
 
 on the other hand,...
