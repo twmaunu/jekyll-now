@@ -8,7 +8,7 @@ permalink: /FMS/
 
 [Gilad Lerman](http://www-users.math.umn.edu/~lerman/) and [Tyler Maunu](https://twmaunu.github.io/)
 
-[arXiv](https://arxiv.org/pdf/1406.6145v2.pdf)
+[arXiv](https://arxiv.org/pdf/1406.6145v2.pdf) (2016)
 
 Abstract:
 This work presents a fast and non-convex algorithm for robust subspace recovery.
