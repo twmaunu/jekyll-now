@@ -27,6 +27,6 @@ competitive speed and accuracy.
 
 This is a webpage for the Fast Median Subspace (FMS) algorithm. The goal is to solve the optimization problem
 
-$$ \text{argmin}_{l \in G(D,d)} \sum_{\boldsymbol{x}_i} \text{dist}(\boldsymbol{x}_i,L) $$
+$$ \text{argmin}_{L \in G(D,d)} \sum_{\boldsymbol{x}_i} \text{dist}(\boldsymbol{x}_i,L) $$
 
 on the other hand,...
