@@ -6,6 +6,8 @@ permalink: /FMS/
 
 # Fast Median Subspace
 
+[Gilad Lerman](http://www-users.math.umn.edu/~lerman/) and [Tyler Maunu](https://twmaunu.github.io/)
+
 [arXiv](https://arxiv.org/pdf/1406.6145v2.pdf)
 
 Abstract:
