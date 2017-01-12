@@ -5,7 +5,7 @@ permalink: /FMS/
 ---
 # Fast, robust and non-convex subspace recovery
 
-## (a.k.a. Fast Median Subspace (FMS))
+## a.k.a. Fast Median Subspace (FMS) algorithm
 
 [Gilad Lerman](http://www-users.math.umn.edu/~lerman/) and [Tyler Maunu](https://twmaunu.github.io/)
 
