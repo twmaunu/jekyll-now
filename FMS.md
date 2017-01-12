@@ -28,4 +28,9 @@ than 1) and any fixed positive distance between the limit point and the global
 minimum. Numerical experiments on synthetic and real data demonstrate its
 competitive speed and accuracy.
 
+## Acknowledgments
+
+This work was supported by NSF awards DMS-09-56072 and DMS-14-18386
+and the Feinberg Foundation Visiting Faculty Program Fellowship of the Weizmann
+Institute of Science.
 
