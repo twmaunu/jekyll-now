@@ -29,20 +29,3 @@ minimum. Numerical experiments on synthetic and real data demonstrate its
 competitive speed and accuracy.
 
 
-The goal is to solve the optimization problem
-
-$$ \text{argmin}_{L \in G(D,d)} \sum_{\boldsymbol{x}_i} \text{dist}(\boldsymbol{x}_i,L) $$
-
-To deal with the non-differentiability of the cost in the above formulation, we instead consider the Huber-like version of this cost
-
-$$ \text{argmin}_{L \in G(D,d)} \sum_{\text{dist}^{2-p}(\boldsymbol{x}_i,L) > p \delta} \text{dist}^p(\boldsymbol{x}_i,L) + \sum_{\text{dist}^{2-p}(\boldsymbol{x}_i,L) \leq p \delta} \frac{\text{dist}^2(\boldsymbol{x}_i,L)}{2\delta} + C_{p,\delta}   $$
-
-
-
-TODO:
-- complete description
-- illustration
-- experiments
-
-
-
