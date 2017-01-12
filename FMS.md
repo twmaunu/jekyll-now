@@ -10,6 +10,8 @@ permalink: /FMS/
 
 [arXiv](https://arxiv.org/pdf/1406.6145v2.pdf) (2016)
 
+[code](https://github.com/twmaunu/FMS/blob/master/FMS.zip)
+
 Abstract:
 This work presents a fast and non-convex algorithm for robust subspace recovery.
 The data sets considered include inliers drawn around a low-dimensional
@@ -36,7 +38,6 @@ To deal with the non-differentiability of the cost in the above formulation, we 
 $$ \text{argmin}_{L \in G(D,d)} \sum_{\text{dist}^{2-p}(\boldsymbol{x}_i,L) > p \delta} \text{dist}^p(\boldsymbol{x}_i,L) + \sum_{\text{dist}^{2-p}(\boldsymbol{x}_i,L) \leq p \delta} \frac{\text{dist}^2(\boldsymbol{x}_i,L)}{2\delta} + C_{p,\delta}   $$
 
 
-[code](https://github.com/twmaunu/FMS/blob/master/FMS.zip)
 
 TODO:
 - complete description
