@@ -43,7 +43,6 @@ TODO:
 - complete description
 - illustration
 - experiments
-- code package download
 
 
 
