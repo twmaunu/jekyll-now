@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-(6.Tyler-Maunu.jpg)
+![My pic](6.Tyler-Maunu.jpg)
 
 PhD student in Mathematics and MS student in Statistics
 
