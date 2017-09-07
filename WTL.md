@@ -1,10 +1,10 @@
 ---
 layout: page2
-title: FMS
-permalink: /FMS/
+title: WTL
+permalink: /WTL/
 ---
 
-# The Fast Median Subspace (FMS) algorithm
+# A Well-Tempered Landscape
 
 [Tyler Maunu](https://twmaunu.github.io/), [Teng Zhang](http://sciences.ucf.edu/math/tengz/) and [Gilad Lerman](http://www-users.math.umn.edu/~lerman/)
 
