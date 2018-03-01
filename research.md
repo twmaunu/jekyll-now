@@ -4,8 +4,8 @@ title: Research
 permalink: /research/
 ---
 
-[FMS](twmaunu.github.io/FMS) 
+[FMS](twmaunu.github.io/pages/FMS) 
 
-[WTL](twmaunu.github.io/WTL) 
+[WTL](twmaunu.github.io/pages/WTL) 
 
-[Overview of RSR](twmaunu.github.io/rsr_overview)
+[Overview of RSR](twmaunu.github.io/pages/rsr_overview)
