@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-[FMS](https://twmaunu.github.io/research/FMS) (2017)
+[FMS](https://twmaunu.github.io/FMS) (2017)
 - A fast algorithm for robust subspace recovery
 - Based on nonconvex optimization by IRLS and least absolute deviations
 
