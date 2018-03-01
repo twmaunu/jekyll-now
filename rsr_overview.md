@@ -22,8 +22,8 @@ and disadvantages of proposed approaches and unsolved problems in the area.
 
 ## Acknowledgments
 This work was supported by NSF grant DMS-14-18386 and a University of 
-Minnesota Doctoral Dissertation Fellowship. The authors would like to thank 
-Ery Arias-Castro, Teng Zhang, Xingguo Li, Jiashi Feng, John Goes, Chong You,
-and Yeshwanth Cherapanamjeri for providing code for various algorithms used 
-in our simulations.
+Minnesota Doctoral Dissertation Fellowship. The authors would also like to
+thank all who contributed code used in this survey, and in particular, Ery
+Arias-Castro, Teng Zhang, Xingguo Li, Jiashi Feng, John Goes, Chong You, and
+Yeshwanth Cherapanamjeri.
 
