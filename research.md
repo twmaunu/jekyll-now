@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-[FMS](FMS) (2017)
+[FMS](FMS.md) (2017)
 - A fast algorithm for robust subspace recovery
 - Based on nonconvex optimization by IRLS and least absolute deviations
 
