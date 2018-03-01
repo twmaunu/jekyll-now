@@ -12,7 +12,7 @@ permalink: /research/
 - Generic theoretical result on nonconvex energy landscape for robust subspace recovery 
 - Geodesic gradient descent method
 
-[Overview of RSR](https://twmaunu.github.io/rsr_review) (2018)
+[Overview of RSR](https://twmaunu.github.io/rsr_overview) (2018)
 - A survey of existing methods in robust subspace recovery
 - Compare advantages and disadvantages of methods, both theoretically and in practice
 - Discussion of where field should go next
