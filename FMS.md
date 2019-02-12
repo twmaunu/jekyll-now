@@ -33,7 +33,7 @@ competitive speed and accuracy.
 * While the default method in the paper uses a randomized SVD algorithm, we have noticed instability of this method in some of our tests. In particular, the method does not appear to be stable within our algorithm when the data matrix becomes very ill-conditioned. Because of this, we advocate also trying the method with standard SVD, which seems to alleviate these issues. The code shared here uses standard SVD by default. However, for truly large applications, randomized SVD should be used to save time.
 
 
-[code to recreate figures from paper](https://drive.google.com/file/d/0B3WZIZpLrsPYR3ZfRHJvdUJCMHM/view?usp=sharing)
+[code to recreate figures from the paper](https://drive.google.com/file/d/0B3WZIZpLrsPYR3ZfRHJvdUJCMHM/view?usp=sharing)
 
 [larger datasets from the paper](https://drive.google.com/file/d/0B3WZIZpLrsPYaEJYZk9icWVwcEk/view?usp=sharing)
 
