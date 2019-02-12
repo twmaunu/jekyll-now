@@ -30,7 +30,7 @@ competitive speed and accuracy.
 
 [fms code only](https://drive.google.com/file/d/1l7CvgHd4Ljg8FRfOMmGtgFIhIKSPxrYw/view?usp=sharing)
 
-* While the default method in the paper uses a randomized SVD algorithm, we have noticed instability of this method in some of our tests. In particular, the method does not appear to be stable within our algorithm when the data matrix becomes very ill-conditioned. If the user desires accuracy, they should use standard SVD, which is the default in the code here. However, for truly large applications, randomized SVD should be used to save time.
+* While the default method in the paper uses a randomized SVD algorithm, we have noticed instability of this method in some of our tests. In particular, the method does not appear to be stable within our algorithm when the data matrix becomes very ill-conditioned. If the user desires accuracy, they should use standard SVD, which is the default in the code here. If the user desires a faster algorithm, then randomized SVD should be used to save time.
 
 
 [code to recreate figures from the paper](https://drive.google.com/file/d/0B3WZIZpLrsPYR3ZfRHJvdUJCMHM/view?usp=sharing)
