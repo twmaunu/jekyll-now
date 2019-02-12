@@ -4,10 +4,8 @@ title: About
 permalink: /about/
 ---
 
-PhD student in Mathematics and MS student in Statistics
+Instructor of Applied Mathematics at MIT
 
-University of Minnesota
-
-contact: maun0021 (at) umn (dot) edu
+contact: maunut (at) mit (dot) edu
 
 Research interests: Mathematical and statistical modeling, dimensionality reduction, robust statistics, non-convex optimization, computer vision, time series analysis
