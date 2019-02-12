@@ -10,10 +10,6 @@ permalink: /FMS/
 
 [Fast, robust and non-convex subspace recovery](https://arxiv.org/abs/1406.6145) (2017)
 
-[code](https://drive.google.com/file/d/0B3WZIZpLrsPYR3ZfRHJvdUJCMHM/view?usp=sharing)
-
-[data](https://drive.google.com/file/d/0B3WZIZpLrsPYaEJYZk9icWVwcEk/view?usp=sharing)
-
 Abstract:
 This work presents a fast and non-convex algorithm for robust subspace recovery.
 The data sets considered include inliers drawn around a low-dimensional
@@ -29,6 +25,17 @@ locally r-linear. The latter theorem holds for any fixed fraction of outliers (l
 than 1) and any fixed positive distance between the limit point and the global
 minimum. Numerical experiments on synthetic and real data demonstrate its
 competitive speed and accuracy.
+
+## Materials
+
+[code](https://drive.google.com/file/d/0B3WZIZpLrsPYR3ZfRHJvdUJCMHM/view?usp=sharing)
+
+### Notes
+
+
+
+[data](https://drive.google.com/file/d/0B3WZIZpLrsPYaEJYZk9icWVwcEk/view?usp=sharing)
+
 
 ## Acknowledgments
 
