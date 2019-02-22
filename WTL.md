@@ -21,7 +21,5 @@ The condition is shown to hold with high probability for a certain model of data
 
 ## Acknowledgments
 
-This work was supported by NSF award DMS-14-18386 and a UMII MnDRIVE graduate
-assistantship. The authors would like to thank Chao Gao and Nati Srebro for helpful
-discussion on a preliminary version of the work.
+This work was supported by NSF awards DMS-14-18386 and DMS-18-21266, a UMII MnDRIVE graduate assistantship, and a UMN Doctoral Dissertation Fellowship.
 
